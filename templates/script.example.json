@@ -1,0 +1,32 @@
+{
+  "title": "What happens if you crack your knuckles?",
+  "style": "deep-dive-3d",
+  "language": "en",
+  "duration_target_seconds": 45,
+  "voice": {
+    "id": "af_heart",
+    "speed": 1.0
+  },
+  "scenes": [
+    {
+      "id": "scene-01",
+      "narration": "That popping sound is not your bones cracking.",
+      "visual": "Macro 3D-inspired hand silhouette with a highlighted knuckle joint.",
+      "camera": "slow_push_in",
+      "sfx": [
+        "soft_pop"
+      ],
+      "music_mood": "curious"
+    },
+    {
+      "id": "scene-02",
+      "narration": "It comes from tiny gas cavities forming in the joint fluid.",
+      "visual": "Clean, non-graphic cutaway showing a joint capsule and small bubbles.",
+      "camera": "orbit",
+      "sfx": [
+        "bubble"
+      ],
+      "music_mood": "curious"
+    }
+  ]
+}
